@@ -1,0 +1,180 @@
+{
+  "kind": "collectionType",
+  "collectionName": "collection1s",
+  "info": {
+    "singularName": "collection1",
+    "pluralName": "collection1s",
+    "displayName": "collection1",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "collection1": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::collection1.collection1"
+    },
+    "collection2": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::collection2.collection2"
+    },
+    "collection3": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::collection3.collection3"
+    },
+    "collection4": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::collection4.collection4"
+    },
+    "collection5": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::collection5.collection5"
+    },
+    "collection6": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::collection6.collection6"
+    },
+    "collection_14": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::collection14.collection14"
+    },
+    "collection8": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::collection8.collection8"
+    },
+    "collection9": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::collection9.collection9"
+    },
+    "collection10": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::collection10.collection10"
+    },
+    "field1": {
+      "type": "string"
+    },
+    "field2": {
+      "type": "string"
+    },
+    "field3": {
+      "type": "string"
+    },
+    "field4": {
+      "type": "string"
+    },
+    "field5": {
+      "type": "string"
+    },
+    "field6": {
+      "type": "string"
+    },
+    "field7": {
+      "type": "string"
+    },
+    "field8": {
+      "type": "string"
+    },
+    "field9": {
+      "type": "string"
+    },
+    "field10": {
+      "type": "string"
+    },
+    "field11": {
+      "type": "string"
+    },
+    "field12": {
+      "type": "string"
+    },
+    "field13": {
+      "type": "string"
+    },
+    "field14": {
+      "type": "string"
+    },
+    "field15": {
+      "type": "string"
+    },
+    "field16": {
+      "type": "string"
+    },
+    "field17": {
+      "type": "string"
+    },
+    "field18": {
+      "type": "string"
+    },
+    "field19": {
+      "type": "string"
+    },
+    "field20": {
+      "type": "string"
+    },
+    "field21": {
+      "type": "string"
+    },
+    "field22": {
+      "type": "string"
+    },
+    "field23": {
+      "type": "string"
+    },
+    "field25": {
+      "type": "string"
+    },
+    "field26": {
+      "type": "string"
+    },
+    "field27": {
+      "type": "string"
+    },
+    "field28": {
+      "type": "string"
+    },
+    "field29": {
+      "type": "string"
+    },
+    "field30": {
+      "type": "string"
+    },
+    "field31": {
+      "type": "string"
+    },
+    "field32": {
+      "type": "string"
+    },
+    "field33": {
+      "type": "string"
+    },
+    "field35": {
+      "type": "string"
+    },
+    "field36": {
+      "type": "string"
+    },
+    "field37": {
+      "type": "string"
+    },
+    "field38": {
+      "type": "string"
+    },
+    "field39": {
+      "type": "string"
+    },
+    "field40": {
+      "type": "string"
+    }
+  }
+}
