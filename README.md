@@ -16,6 +16,6 @@
 
 ## 5. create a demo account and login to dashboard
 
-## 6. add any one to many relation to a collection and save. said error will occur
+## 6. add any one to one relation to a collection and save. said error will occur
 
-### `for example add one to many relation to collection1 with target collection as collection15`
+### `for example add one to one relation to collection1 with target collection as collection15`
