@@ -18,4 +18,4 @@
 
 ## 6. add any one to many relation to a collection and save. said error will occur
 
-### `for example a add one to many relation to collection1 with target collection as collection15`
+### `for example add one to many relation to collection1 with target collection as collection15`
