@@ -5,6 +5,7 @@
 ## 2. create a postgres instance
 
 ### `sudo docker-compose up -d`
+#### [Note: we can use already installed Postgres DB also, for that we need to configure /config/database.js]
 
 ## 3. install dependency
 
